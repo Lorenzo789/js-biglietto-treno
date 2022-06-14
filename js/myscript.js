@@ -43,5 +43,5 @@ if(userAge >= 65) {
 
     let ticketpriceDecimals = ticketFinalPrice.toFixed(2);
     console.log (ticketpriceDecimals, '€');
-    console.log ('eta tra i 18 e i 64');
+    
 }
