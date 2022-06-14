@@ -41,7 +41,8 @@ if(userAge >= 65) {
 
 } else {
 
+    //PRICE RANGE 19 TO 64
     let ticketpriceDecimals = ticketFinalPrice.toFixed(2);
     console.log (ticketpriceDecimals, '€');
-    
+
 }
